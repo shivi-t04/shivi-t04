@@ -65,8 +65,16 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivi-t04&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivi-t04&layout=compact" />
   <br/>
 </p>
+
+---
+---
+
+### 🔝 Top Contributed Repositories
+![](https://github-contributor-stats.vercel.app/api?username=Shivi-t04&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
 
 ---
 
@@ -78,4 +86,4 @@
 ---
 
 ### ✨ “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
-```
+---
