@@ -8,7 +8,7 @@
 
 ---
 
-🚀 About Me
+### 🚀 About Me
 
 - 🔭 I’m currently working on backend systems and scalable APIs.
 - 🌱 I’m learning Advanced Django, Docker orchestration, and System Design.
@@ -19,7 +19,7 @@
 
 ---
 
-🧪 My Projects
+### 🧪 My Projects
 
 - 🛒 Inventory Management System — Django-based stock and product tracking system.  
   (CRUD, reports, supplier tracking, login system)  
@@ -46,7 +46,7 @@
 > All projects follow clean architecture, DRY principles, and are scalable.
 
 ---
-🛠 Languages & Tools
+### 🛠 Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
@@ -61,7 +61,7 @@
 
 ---
 
-📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivi-t04&show_icons=true&theme=radical" alt="GitHub stats" />
@@ -70,16 +70,12 @@
 
 ---
 
-🌐 Connect With Me
+### 🌐 Connect With Me
 <p align="center">
   <a href="mailto:shivangitrivedi1804@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-✨ “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
+### ✨ “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
 ```
-
-
-
-
