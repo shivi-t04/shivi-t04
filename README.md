@@ -38,8 +38,10 @@
   [GitHub Repo](https://github.com/shivi-t04/cow.git)
 
 - 🏪 Multi-Database Shopkeeper System.
-(A Django project that isolates each shopkeeper's data into separate databases for enhanced security, scalability, and data management.)
- [GitHub Repo](https://github.com/shivi-t04/multi_database.git)
+  
+   (A Django project that isolates each shopkeeper's data into separate databases for enhanced security, scalability, and data management.)
+  
+   [GitHub Repo](https://github.com/shivi-t04/multi_database.git)
 
 > All projects follow clean architecture, DRY principles, and are scalable.
 
